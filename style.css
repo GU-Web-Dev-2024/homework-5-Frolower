@@ -1,3 +1,8 @@
+/* Nikita Dubinin
+CPSC 332
+Homework 5
+Last modified: 10.09.2024 */
+
 * {
     margin: 0;
     padding: 0;
@@ -52,7 +57,7 @@ header h1 {
 }
 
 .art-panel.viewed {
-    background-color: #d1e7dd;
+    background-color: #84ffa7;
 }
 
 .art-panel img {
